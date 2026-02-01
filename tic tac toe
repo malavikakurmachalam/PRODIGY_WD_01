@@ -139,4 +139,4 @@ function resetGame() {
   statusText.textContent = "Player X's turn";
   cells.forEach(cell => cell.textContent = "");
 }
-OUTPUT
+
